@@ -1,0 +1,6 @@
+{
+  "name": "Symulacja Światła - Szarość vs Biel",
+  "description": "Interaktywna symulacja percepcji światła: fuzja migotania (PWM) oraz addytywne mieszanie barw na wirującym kole barw Newtona.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
